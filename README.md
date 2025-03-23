@@ -7,5 +7,5 @@ The .ipynb file above is the Jupyter notebook containing the full length code em
 ---
 
 # In case of any issues/doubt
-Feel free to contact me!
+Feel free to contact me!  
 mahimachakraborty1234@gmail.com
